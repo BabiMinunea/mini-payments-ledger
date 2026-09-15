@@ -1,0 +1,1 @@
+A backend API that lets users create accounts, view balances, and safely transfer money between accounts. The project will demonstrate Java, Spring Boot, PostgreSQL, testing, and secure financial-system design. 
